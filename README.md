@@ -5,7 +5,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-quare&labelColor=0a66c2&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/taylan-mert-doğan-20ab4225a/)
 [![Github Badge](https://img.shields.io/badge/-Github-000000?style=flat-quare&labelColor=000000&logo=github&logoColor=white&link=link)](https://github.com/Gunes00)
 ```yaml
-name: Taylan Mert DOĞAN
+name: Taylan Mert (Güneş) DOĞAN
 located_in: Gebze, KOCAELİ
 current_job: Software Developer
 interests:
