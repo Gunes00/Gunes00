@@ -21,6 +21,6 @@ interests:
 ## Ecole42 Stats
 [![tadogan's 42 stats](https://badge42.vercel.app/api/v2/cle05k3fo00400gmhnjwhc74n/stats?cursusId=21&coalitionId=232)](https://github.com/JaeSeoKim/badge42)
 ## Languages
-![Langs](https://skillicons.dev/icons?i=c,html,css")
+![Langs](https://skillicons.dev/icons?i=c,html,css,")
 ## Technologies
 ![Techs](https://skillicons.dev/icons?i=vscode,git,vim,bash,mysql,wordpress,ps,")
