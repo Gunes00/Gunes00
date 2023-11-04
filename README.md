@@ -19,7 +19,7 @@ interests:
 ## GitHub Stats
 ![Gunes00's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gunes00&show_icons=true&theme=synthwave) &nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gunes00&layout=compact&theme=synthwave)](https://github.com/Gunes00)
 ## Ecole42 Stats
-[![tadogan's 42 stats](https://badge42.vercel.app/api/v2/cle05k3fo00400gmhnjwhc74n/stats?cursusId=21&coalitionId=232)](https://github.com/JaeSeoKim/badge42)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gunes00)](https://github.com/anuraghazra/github-readme-stats)
 ## Languages
 ![Langs](https://skillicons.dev/icons?i=c,html,css,php,nodejs,react,mongo,nextjs,prisma,,")
 ## Technologies
