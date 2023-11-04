@@ -1,6 +1,6 @@
 ![Github Badge](https://komarev.com/ghpvc/?username=Gunes00&color=blueviolet)
 [![Website Badge](https://img.shields.io/badge/-Website-1db5e7?style=flat-quare&labelColor=1db5e7&logo=internetexplorer&logoColor=white&link=link)](https://gunes00.me)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://instagram.com/gunes.0_0)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://instagram.com/n_orion_)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1d9bf0?style=flat-quare&labelColor=1d9bf0&logo=twitter&logoColor=white&link=link)](https://twitter.com/f47ck)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-quare&labelColor=0a66c2&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/taylan-mert-doğan-20ab4225a/)
 [![Github Badge](https://img.shields.io/badge/-Github-000000?style=flat-quare&labelColor=000000&logo=github&logoColor=white&link=link)](https://github.com/Gunes00)
